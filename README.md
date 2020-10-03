@@ -8,5 +8,5 @@ Guide of studies and references about Computer Vision as a Framworks, skills and
 
 <br>
 
-![alt text](https://cendyn.com/wp-content/uploads/2019/04/AdobeStock_240428469.jpg)
+![Alt Text](https://thumbs.gfycat.com/IdioticSoreGhostshrimp-size_restricted.gif)
 
