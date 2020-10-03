@@ -8,5 +8,5 @@ Guide of studies and references about Computer Vision as a Framworks, skills and
 
 <br>
 
-![Alt Text](https://fullscale.io/blog/wp-content/uploads/2019/05/full-scale-blog-machine-learning-in-computer-vision.jpg)
+!<img src="https://fullscale.io/blog/wp-content/uploads/2019/05/full-scale-blog-machine-learning-in-computer-vision.jpg" width="40" height="40" />
 
