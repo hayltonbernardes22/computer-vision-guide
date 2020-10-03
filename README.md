@@ -19,4 +19,4 @@
 
 #### <b> Image preprocessing </b> 
 
-* **Part 1-**: [Load images to array](https://github.com/Felipe-Oliveira11/Detection-COVID19/blob/master/Detecting_Covid_19_Images.ipynb)
+* **Part 1**: [Load images to array](https://github.com/Felipe-Oliveira11/Detection-COVID19/blob/master/Detecting_Covid_19_Images.ipynb)
