@@ -2,7 +2,6 @@
 <br>
 <hr>
 
-[![tensorflow](./src/tensorflow.svg)](https://aleen42.github.io/badges/src/tensorflow.svg)
 
 
 ### Description :page_facing_up:
