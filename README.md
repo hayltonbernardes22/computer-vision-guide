@@ -3,7 +3,7 @@
 <hr>
 
 
-#### Description
+### Description
 
 This repository is a Guide of studies and references about Computer Vision and your content as Frameworks, papers, codes and applications. Where we will apply most technics and algorithms in the field of computer vision, also we will explory some librarys userful for Computer vision as a TensorFlow, Pytorch, OpenCV and others frameworks. We will have a part just for papers and computer vision researchs and new releases of the field.
 
@@ -12,7 +12,7 @@ This repository is a Guide of studies and references about Computer Vision and y
 <br>
 
 
-#### Tutorials 
+### Tutorials 
 
 
 <b> Image preprocessing </b> 
