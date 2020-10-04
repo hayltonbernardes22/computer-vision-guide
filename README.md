@@ -1,4 +1,4 @@
-# Computer Vision 👁️ 
+# Computer Vision Guide 👁️ 
 <br>
 <hr>
 
