@@ -1,6 +1,6 @@
-## Computer Vision 
-<hr>
+#Computer Vision 
 <br>
+<hr>
 
 
 #### Description
