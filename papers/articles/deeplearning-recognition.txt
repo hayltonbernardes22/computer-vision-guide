@@ -1,1 +1,3 @@
-##### Deep learning image recognition: http://www.lapix.ufsc.br/ensino/visao/visao-computacionaldeep-learning/deep-learningreconhecimento-de-imagens/
+- Deep learning image recognition: http://www.lapix.ufsc.br/ensino/visao/visao-computacionaldeep-learning/deep-learningreconhecimento-de-imagens/
+
+- Transfer learning with Keras: https://www.pyimagesearch.com/2019/05/20/transfer-learning-with-keras-and-deep-learning/
