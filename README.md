@@ -16,7 +16,7 @@ This repository is a Guide of studies and references about Computer Vision and y
 
 
 <b> Image preprocessing </b> 
-* **Part 1**: [Load images to array](https://github.com/Felipe-Oliveira11/Detection-COVID19/blob/master/Detecting_Covid_19_Images.ipynb)
+* **Part 1**: [Load images to array](https://github.com/felipeoliverai/computer-vision-guide/blob/master/preprocessing-image/notebooks/image_preprocessing_01.ipynb)
 
 
 
