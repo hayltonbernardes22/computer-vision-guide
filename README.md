@@ -24,4 +24,10 @@ This repository is a Guide of studies and references about Computer Vision and y
 
 
 <br> 
+<br>
+
+### Image Recognition 
+
+<b> Classification </b>
+
 
