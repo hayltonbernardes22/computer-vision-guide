@@ -23,9 +23,11 @@ This repository is a Guide of studies and references about Computer Vision and y
 
 <br>
 
+
 <b> Object Detection YOLOv4 </b>
 
-* **YoloV4 **: [Tutorial YoloV4](https://github.com/felipeoliverai/computer-vision-guide/blob/master/preprocessing-image/notebooks/image_preprocessing_01.ipynb)
+
+* **YoloV4 **: [Tutorial YoloV4](https://github.com/felipeoliverai/computer-vision-guide/blob/master/object-detection/yolo/YoloV4/YOLO_v4_Object_Detection_with_Darknet.ipynb)
 
 
 
@@ -33,9 +35,5 @@ This repository is a Guide of studies and references about Computer Vision and y
 
 <br> 
 <br>
-
-### Image Recognition 
-
-<b> Classification </b>
 
 
